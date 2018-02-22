@@ -7,4 +7,4 @@ This is an electron app that is a clock. That's pretty much it.
 
 First release with the first clock!
 
-![alt text]("Picture of first clock")
+![alt text](https://cdn.rawgit.com/Thriller-Film-Productions/Electron-Clock/fd6e5f6b/pictures/First%20clock.png "Picture of first clock")
